@@ -1,5 +1,4 @@
 DaDooRonRon
 ==
 
-Random program found on computer. :)
-Enjoy!
+prints DaDooRonRon
